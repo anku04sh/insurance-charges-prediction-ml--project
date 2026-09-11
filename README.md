@@ -97,8 +97,4 @@ Make sure the dataset file `i(2).csv` is in the same directory as the Python scr
 
 This project demonstrates an end-to-end beginner-to-intermediate machine learning workflow, from raw tabular data exploration and preprocessing to regression model training and evaluation. It also provides practical experience with pandas, visualization libraries, categorical feature handling, scaling, and scikit-learn.
 
-## Author
 
-**Ankush Kumar**  
-B.Tech Computer Science & Engineering with Data Science  
-Maharishi University of Information Technology, Noida
